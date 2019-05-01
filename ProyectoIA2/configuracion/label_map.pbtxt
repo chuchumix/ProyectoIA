@@ -1,0 +1,129 @@
+item{
+	id: 1
+	name: 'Inmadura - 16 dias para maduracion'
+}
+item{
+	id: 2
+	name: 'Inmadura - 12 dias para maduracion'
+}
+item{
+	id: 3
+	name: 'Inmadura - 8 dias para maduracion'
+}
+item{
+	id: 4
+	name: 'Inmadura - 4 dias para maduracion'
+}
+item{
+	id: 5
+	name: 'Madura - 8 dias en rango para consumo'
+}
+item{
+	id: 6
+	name: 'Madura - 4 dias en rango para consumo'
+}
+item{
+	id: 7
+	name: 'Podrida'
+}
+item{
+	id: 8
+	name: '0.1 Kg'
+}
+item{
+	id: 9
+	name: '0.2 Kg'
+}
+item{
+	id: 10
+	name: '0.3 Kg'
+}
+item{
+	id: 11
+	name: '0.4 Kg'
+}
+item{
+	id: 12
+	name: '0.5 Kg'
+}
+item{
+	id: 13
+	name: '0.6 Kg'
+}
+item{
+	id: 14
+	name: '0.7 Kg'
+}
+item{
+	id: 15
+	name: '0.8 Kg'
+}
+item{
+	id: 16
+	name: '0.9 Kg'
+}
+item{
+	id: 17
+	name: '1.0 Kg'
+}
+item{
+	id: 18
+	name: '1.1 Kg'
+}
+item{
+	id: 19
+	name: '1.2 Kg'
+}
+item{
+	id: 20
+	name: '1.3 Kg'
+}
+item{
+	id: 21
+	name: '1.4 Kg'
+}
+item{
+	id: 22
+	name: '1.5 Kg'
+}
+item{
+	id: 23
+	name: '1.6 Kg'
+}
+item{
+	id: 24
+	name: '1.7 Kg'
+}
+item{
+	id: 25
+	name: '1.8 Kg'
+}
+item{
+	id: 26
+	name: '1.9 Kg'
+}
+item{
+	id: 27
+	name: '2.0 Kg'
+}
+item{
+	id: 28
+	name: '2.1 Kg'
+}
+item{
+	id: 29
+	name: '2.2 Kg'
+}
+item{
+	id: 30
+	name: '2.3 Kg'
+}
+item{
+	id: 31
+	name: '2.4 Kg'
+}
+item{
+	id: 32
+	name: '2.5 Kg'
+}
+
